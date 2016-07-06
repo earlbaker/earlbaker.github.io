@@ -1,0 +1,8 @@
+#navcontainer ul li a {
+	letter-spacing: normal;
+	line-height: 1.4em;
+}
+
+#navcontainer ul li a {
+	margin-top: 2px !important;
+}

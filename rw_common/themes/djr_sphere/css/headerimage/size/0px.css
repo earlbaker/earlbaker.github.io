@@ -1,0 +1,34 @@
+#pageHeader #headerImage {
+	height: 0;
+}
+
+#breadcrumbcontainer {
+	position: relative;
+	top: 25px;
+	bottom: auto;
+}
+
+#navcontainer {
+	position: absolute;
+	top: auto;
+}
+
+#mainContent, #sidebarContainer {
+	margin-top: 40px !important;
+}
+
+*+html #navcontainer {
+	top: auto !important;
+}
+
+* html #navcontainer {
+	top: auto !important;
+}
+
+* html #pageHeader #headerImage {
+	height: 0;
+	margin: 0;
+	padding: 0;
+	position: static;
+	display: none;
+}

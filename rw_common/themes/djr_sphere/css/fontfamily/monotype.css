@@ -1,0 +1,25 @@
+body {
+	font-family: "Andale Mono", "Bitstream Vera Sans Mono", Courier, "MS Courier New", "Prestige", "Everson Mono", "Monaco", monospace;
+}
+
+#pageHeader h1 {
+	position: relative;
+	font-size: 32px;
+	margin: -6px auto;
+	top: -2px;
+}
+
+#pageHeader h2 {
+	position: relative;
+	font-size: 18px;
+	height: 22px;
+	padding-top: 2px;
+}
+
+.tool-title {
+	font-size: 9px;
+}
+ 
+.tool-text {
+	font-size: 9px;
+}

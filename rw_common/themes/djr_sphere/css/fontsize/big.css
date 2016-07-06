@@ -1,0 +1,11 @@
+body {
+	font-size: 70%;
+}
+
+#navcontainer ul li {
+	top: -3px;
+}
+
+*+html body, * html body {
+	font-size: 66%;
+}

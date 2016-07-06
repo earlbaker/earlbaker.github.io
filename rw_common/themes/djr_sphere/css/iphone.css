@@ -1,0 +1,20 @@
+body {
+	font-size: 80% !important;
+}
+
+#bottom {
+	position: relative;
+	width: auto;
+}
+
+#footer_image {
+	display: none;
+}
+
+#navcontainer ul li a {
+	margin-top: -5px;
+}
+
+#headerHeight {
+	height: 0;
+}

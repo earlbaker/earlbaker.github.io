@@ -1,0 +1,39 @@
+.image-left, .image-right {
+	height: 1%;
+	position: relative;
+}
+
+
+#navcontainer ul li a {
+	letter-spacing: normal;
+	padding: 0 1px;
+}
+
+#navcontainer ul li, #navcontainer ul ul li {
+	position: relative;
+	/*overflow: auto;*/
+	
+}
+
+body, html, #container {
+	overflow-x: auto;
+}
+
+#navcontainer ul li a {
+	letter-spacing: normal;
+	line-height: 1.4em;
+}
+
+#navcontainer ul li a {
+	margin-top: 2px !important;
+}
+
+h1, h2, h3, h4, h5 {
+	line-height: 1.4em;
+}
+
+body, html {
+	background-attachment: scroll;
+	background-repeat: repeat-x;
+	background-image: none;
+}

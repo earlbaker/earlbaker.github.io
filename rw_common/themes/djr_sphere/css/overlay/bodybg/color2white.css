@@ -1,0 +1,9 @@
+body, * html #container {
+	background-image: url(../../../images/fades/bg2white.png);
+}
+
+* html #container {
+	background-repeat: repeat-x;
+	background-position: bottom center;
+	background-attachment: fixed;
+}

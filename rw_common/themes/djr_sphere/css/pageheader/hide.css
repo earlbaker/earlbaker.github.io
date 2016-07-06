@@ -1,0 +1,12 @@
+#pageHeader h1, #pageHeader h2 { display: none;}
+
+#navcontainer {
+top: auto;}
+
+#pageHeader {
+	top: 0;
+}
+
+#mainContent, #sidebarContainer {
+	margin-top: 20px;
+}

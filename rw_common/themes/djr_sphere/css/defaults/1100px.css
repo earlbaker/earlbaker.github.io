@@ -1,0 +1,8 @@
+#content, #trans {
+	width: 1100px;
+}
+
+#trans {
+	margin-left: -550px;
+	width: 1100px;
+}

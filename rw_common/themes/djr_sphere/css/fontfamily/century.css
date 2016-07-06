@@ -1,0 +1,13 @@
+body {
+	font-family: "Century Gothic", Arial, Geneva, Verdana, sans-serif;
+}
+#pageHeader h1 {
+	position: relative;
+	font-size: 35px;
+	margin: -6px auto -6px;
+	top: -2px;
+}
+
+#pageHeader h2 {
+	font-size: 21px;
+}

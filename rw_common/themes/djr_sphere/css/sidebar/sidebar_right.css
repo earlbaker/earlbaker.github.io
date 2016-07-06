@@ -1,0 +1,16 @@
+#sidebarContainer {
+	float: right;
+}
+#mainContent {
+	margin-right: 33%;
+	margin-left: auto;
+}
+
+*+html #mainContent {
+	width: 64%;
+}
+
+*+html #sidebarContainer {
+	width: 24%;
+	padding: 0 2%;
+}

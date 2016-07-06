@@ -1,0 +1,20 @@
+#footer_col {
+	height: 25px;
+}
+
+#footer_image {
+	bottom: 25px;
+}
+
+#trans {
+	bottom: 25px;
+}
+
+#footer {
+	height: auto;
+	top: 5px;
+}
+
+#content {
+	padding-bottom: 35px;
+}

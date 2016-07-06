@@ -1,0 +1,253 @@
+body,
+.movie-background, .photo-background {
+	background-color: #004080;
+}
+
+a:link, a:visited, #navbarside a {
+	color: #0000FF;
+}
+
+a:hover, a:active, #navbarside .current a, #navbarside a:hover {
+	color: #0000FF;
+}
+
+#content {
+	background-color: #B8D7FB;
+	color: #000080;
+}
+
+#mainContent {
+	color: #000080;
+}
+
+/* @group File Sharing */
+
+.filesharing-item {
+	background-color: #93ACC8;
+}
+
+.filesharing-item-description {
+}
+
+/* @end */
+
+.album-title {
+	color: #3333B3;
+}
+
+.album-description {
+	color: #111191
+}
+
+.photo-navigation {
+	background-color: #93ACC8;
+}
+
+		
+.photo-links {
+	border-bottom-color: #203959;
+}
+
+.photo-caption {
+	color: #000080;
+}
+
+.photo-title {
+	color: #000099;
+}
+
+.blog-entry-title a {
+	color: #000080;
+}
+
+.blog-entry-title a:hover {
+	color: #0000FF;
+	background: transparent;
+}
+
+.photo-links {
+	color: #0000FF;
+}
+
+.exif-data,
+.movie-title {
+	color: #FFFFFF;
+}
+
+#breadcrumbcontainer {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+#breadcrumbcontainer ul li, #breadcrumbcontainer ul li a {
+	color: #000000;
+}
+
+#breadcrumbcontainer ul li a:hover {
+	color: #B90000;
+}
+
+#navcontainer ul a {
+	color: #000000;
+}
+
+.photo-navigation a:link,
+.photo-navigation a:visited {
+	color: #0000FF;
+}
+
+#navcontainer ul a:hover {
+	color: #B90000;
+}
+
+#navcontainer .current,
+#navcontainer .currentAncestor {
+	color: #DE0000;
+}
+
+#navcontainer ul ul {
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer h1,
+#sidebarContainer h2,
+#sidebarContainer h3,
+#sidebarContainer h4,
+#sidebarContainer h5
+ {
+	border-bottom-color: #7F7F7F;
+	color: #4C4C4C;
+}
+
+#sidebarContainer {
+	color: #4C4C4C;
+}
+
+
+#footer_col {
+	background-color: #000000;
+}
+
+
+#footer, #footer p {
+	color: #DFDFDF;
+}
+
+#footer a {
+	color: #DFDFDF;
+	text-decoration: underline;
+}
+
+#footer a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+
+#content h1 {
+	color: #000066;
+}
+
+#content h2 {
+	color: #000066;
+}
+
+#content h3 {
+	color: #000073;
+}
+
+#content h4 {
+	color: #000073;
+}
+
+#content h5 {
+	color: #000080;
+}
+
+.photo-frame, .thumbnail-frame {
+	border-color: #6E8196;
+	background-color: #FFFFFF;
+}
+
+.form-input-field, .form-input-button {
+	background-color: #EBFFFF;
+	border-color: #A7C6EA;
+	color: #000080;
+}
+
+/* @group Toolbar */
+
+/* Toolbar Styles */
+
+#navcontainer {
+	background-color: #FFFFFF;
+}
+
+#navcontainer .current {
+	color: #B90000;
+}
+
+#navcontainer .currentAncestor {
+}
+
+#navcontainer a:hover {
+}
+
+#navcontainer ul ul a:hover, #navcontainer ul ul ul a:hover {
+}
+	
+#navcontainer ul ul .current, #navcontainer ul ul ul .current {
+	color: #940000;
+}
+
+
+
+/* Parent - Level 0 */
+
+#navcontainer ul {
+}
+
+
+/* Child - Level 1 */
+
+#navcontainer ul ul {
+}
+
+
+
+/* Child Level 3 */
+
+#navcontainer ul ul ul {
+}
+
+/* @end */
+
+#pageHeader #headerImage {
+	background-color: #4072B3;
+  vertical-align: text-bottom;
+}
+
+#pageHeader h1 {
+	color: #FFFFFF;
+}
+		
+#pageHeader h2 {
+	color: #FFFFFF;
+	background-color: #0C3468;
+}
+
+#navcontainer .morph1 {
+	color: #000000;
+}
+
+#navcontainer .morph2 {
+	color: #B90000;
+}
+
+#navbarside {
+	border-radius: 5px;
+	background-color: #C3E3FF;
+	border-color: #93ACC8;
+	-webkit-box-shadow: 0px 0px 10px #AECCEE;
+	box-shadow: 0px 0px 10px #AECCEE;
+}

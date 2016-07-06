@@ -1,0 +1,7 @@
+body {
+	font-size: 60%;
+}
+
+*+html body, * html body {
+	font-size: 57%;
+}

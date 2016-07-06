@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page3</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2016-07-06T01:11:04Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>93DFB54E-0E78-4D9E-B292-5113BDDEF2AF</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>assets/ELP Brochure 2011.pdf</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					5Qxz9FV2N91oHduxN7Uorw==
+					</data>
+					<key>Size</key>
+					<integer>588874</integer>
+				</dict>
+				<key>assets/ELP Brochure Fall 2012.pdf</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					oPh/x6fi3btdOajfiMbKSQ==
+					</data>
+					<key>Size</key>
+					<integer>601805</integer>
+				</dict>
+				<key>assets/ELP Brochure Fall 2015.pdf</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					Os485c1fEC0pvVaVd1Zexw==
+					</data>
+					<key>Size</key>
+					<integer>500278</integer>
+				</dict>
+				<key>files/elp-cover-2.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					+4CihSBVoeGX/o+JDRRNMw==
+					</data>
+					<key>Size</key>
+					<integer>35741</integer>
+				</dict>
+				<key>index.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					QEO3uBGsVzZ9chOb+kzBfw==
+					</data>
+					<key>Size</key>
+					<integer>9053</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page3</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>
